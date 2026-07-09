@@ -23,15 +23,13 @@ Authoring theatrical deliverables requires strict adherence to DCI (Digital Cine
 python qc_verifier.py
 
 ## Example Output
-
-```text
-Initialising Media Pipeline Quality Control Check...
+Initializing Media Pipeline Quality Control Check...
 
 ========================================
       DCI COMPLIANCE REPORT CACHE       
 ========================================
 
-[FAIL] Audio Matrix : Only 0 channels detected! Theatre servers require 6 or 8.
+[FAIL] Audio Matrix : Only 0 channels detected! Theater servers require 6 or 8.
 [PASS] Bandwidth    : 240.02 Mbps (Safe beneath 250 Mbps limit).
 
 ========================================
