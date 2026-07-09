@@ -21,6 +21,7 @@ Authoring theatrical deliverables requires strict adherence to DCI (Digital Cine
 
 ```bash
 python qc_verifier.py
+'''
 
 ## Example Output
 Initializing Media Pipeline Quality Control Check...
