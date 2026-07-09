@@ -24,6 +24,8 @@ python qc_verifier.py
 ```
 
 ## Example Output
+
+```text
 Initializing Media Pipeline Quality Control Check...
 
 ========================================
